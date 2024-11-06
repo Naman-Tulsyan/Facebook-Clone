@@ -27,7 +27,7 @@ Follow these steps to get the project running locally:
 2. **Navigate into the project directory**:
 
     ```bash
-    cd facebook-clone
+    cd Facebook-Clone
 
 3. **Install dependencies**:
 
