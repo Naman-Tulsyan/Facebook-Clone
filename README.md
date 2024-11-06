@@ -38,22 +38,12 @@ This will install all necessary packages, including Vite and Tailwind CSS.
 4. **Start the development server**:
 
     ```bash
-    npm run dev
+    npm run start
 Vite will start a local development server. Open the provided URL (usually http://localhost:3000) in your browser to view the Facebook clone.
 
-5. **Build for production**:
-
-If you want to create an optimized production build, run:
-
-    ```bash
-    npm run build
-
-This will generate optimized files in the dist/ directory.
 
 ## Project Structure
-
-    ```bash
-
+    
     facebook-clone/
     │
     ├── public/                # Public files (HTML, images, etc.)
@@ -68,8 +58,7 @@ This will generate optimized files in the dist/ directory.
 ## Usage
 After setting up the project:
 
-- Development: Use npm run dev to start a local server.
-- Production: Use npm run build to build the project for production.
+- Development: Use npm run start to start a local server.
 
 
 ## Contributing
