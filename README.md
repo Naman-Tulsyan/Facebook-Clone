@@ -22,7 +22,7 @@ Follow these steps to get the project running locally:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/pynaman/Facebook-Clone.git
+   https://github.com/Naman-Tulsyan/Facebook-Clone.git
 
 2. **Navigate into the project directory**:
 
